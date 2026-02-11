@@ -18,8 +18,6 @@
 
 <br clear="both">
 
-<img align="right" height="169" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZtM3Q3eWN2b2JpMmNlcm53cWYyNXRxdXRqbGJmc2l2bzk5OGZwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m6pEztxHF1vT4YcFhE/giphy.gif"  />
-
 ###
 
 <h2 align="left">I code with</h2>
